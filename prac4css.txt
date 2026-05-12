@@ -1,0 +1,11 @@
+body{
+background-color:lightgray;
+}
+
+th{
+background-color:yellow;
+}
+
+td{
+text-align:center;
+}

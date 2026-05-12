@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>CSS Example</title>
+
+<link rel="stylesheet" href="style.css">
+
+<style>
+
+h2{
+color:green;
+text-align:center;
+}
+
+table{
+width:50%;
+border-collapse:collapse;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1 style="color:blue; text-align:center;">
+CSS Styling Demo
+</h1>
+
+<h2>Student Info</h2>
+
+<table border="1">
+
+<tr>
+<th>Name</th>
+<th>Course</th>
+</tr>
+
+<tr>
+<td>Jyoti</td>
+<td>WD</td>
+</tr>
+
+</table>
+
+</body>
+</html>
