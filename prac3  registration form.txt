@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Registration Form</title>
+</head>
+
+<body>
+
+<h2>User Registration Form</h2>
+
+<form>
+
+Name:
+<input type="text"><br><br>
+
+Email:
+<input type="email"><br><br>
+
+Gender:
+<input type="radio" name="g">Male
+<input type="radio" name="g">Female
+<input type="radio" name="g">Other
+
+<br><br>
+
+DOB:
+<input type="date">
+
+<br><br>
+
+<input type="submit" value="Submit">
+
+</form>
+
+</body>
+</html>
