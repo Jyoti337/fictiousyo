@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Web Page Design</title>
+</head>
+
+<body>
+
+<h2>My Web Page</h2>
+
+<a href="https://www.google.com" target="_blank">
+Visit Google
+</a>
+
+<br><br>
+
+<img src="image.jpg" width="200" height="150">
+
+<br><br>
+
+<table border="1">
+
+<tr>
+<th>Name</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Student</td>
+
+<td>
+
+<table border="1">
+
+<tr>
+<th>Age</th>
+<th>Branch</th>
+</tr>
+
+<tr>
+<td>20</td>
+<td>Computer</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+
+</table>
+
+</body>
+</html>
