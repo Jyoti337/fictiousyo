@@ -1,0 +1,16 @@
+<?php
+
+$str="Hello World";
+
+echo "Original String: ".$str."<br>";
+
+echo "Reverse String: ".
+strrev($str)."<br>";
+
+echo "Length: ".
+strlen($str)."<br>";
+
+echo "Substring: ".
+substr($str,6,5);
+
+?>
