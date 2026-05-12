@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Personal Details</title>
+</head>
+
+<body>
+
+<h1>Personal Details</h1>
+
+<p><b>Name:</b> Jyoti</p>
+
+<p><i>Course:</i> Computer Engineering</p>
+
+<p><u>Roll Number:</u> 101</p>
+
+<p>Age: <sub>19</sub></p>
+
+<p>Year: <sup>2nd</sup></p>
+
+<p>Hobby: <mark>Coding</mark></p>
+
+</body>
+</html>
